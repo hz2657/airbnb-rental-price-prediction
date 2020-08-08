@@ -9,7 +9,7 @@ The goal is to construct a model using the dataset supplied and use it to predic
 
 The result will be evaluated based on RMSE (root mean squared error).
 
-Steps
+*Steps*
 1. Variable selection
 2. Model selection: consider boosting model with cross validation
 3. Missing values: impute or remove 
